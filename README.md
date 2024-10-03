@@ -12,3 +12,8 @@
 - Awards Section
   - Will display awards and events in a spinning carousel/gallery.
 - The footer will contain methods of contacting  through different social media/hyperlinks.
+
+## Fall 2024 - Personal Project Continued
+### Unsucessful implementations
+
+### Continued Prospects
