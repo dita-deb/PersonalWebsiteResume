@@ -13,7 +13,7 @@ export class AppComponent {
 
   displayResume() {
     // Open the resume image in a new tab
-    window.open('assets/Anindita_Deb_Resume.png', '_blank');
+    window.open('assets/Anindita_Deb_Resume.pdf', '_blank');
   }
 
 }
