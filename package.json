@@ -1,0 +1,12 @@
+{
+  "name": "personalwebsiteresume",
+  "version": "1.0.0",
+  "description": "- About Me Section\r   - Resume Linked\r - Project Section\r   - Carousel displaying individual projects and their information\r - Certification Section\r   - Divided into Coding, Event-Planning, and Volunteering with drop-down list\r   - Will display individual certificates and their descriptions in a spinning gallery. \r - Awards Section\r   - Will display awards and events in a spinning carousel/gallery.\r - The footer will contain methods of contacting  through different social media/hyperlinks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
