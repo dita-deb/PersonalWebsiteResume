@@ -1,4 +1,6 @@
 # Personal Website 
+## Fall 2024 Current Changes
+
 ## Summer 2024 - Personal Project
 
 ### Challenging myself to build my own personal website to display the following information:
